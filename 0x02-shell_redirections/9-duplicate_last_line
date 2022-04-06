@@ -1,0 +1,7 @@
+#!/bin/bash
+tail -l iacta >> iacta
+chmod u+x 9-duplicate_last_line
+git add .
+git commit -m "My commit for Duplicate last line"
+git push
+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
