@@ -1,2 +1,3 @@
-echo '#!/bin/bash' > 11-directories
-echo 'find -minedepth 1 -type d | wc -|' >> 11-directories
+#!/bin/bash
+find ./* -type d -print | wc -1
+chmod u+x 11-directories
