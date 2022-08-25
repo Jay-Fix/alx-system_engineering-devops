@@ -1,4 +1,4 @@
-# 0x06. Regular expression
+# 0x06. README FILE FOR Regular expression TASK
 
 ## Table of contents
 
